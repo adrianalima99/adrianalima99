@@ -1,16 +1,30 @@
-### Hi there 👋
+## 🖖🏻Hello World! Eu sou Adriana Lima e esse é meu perfil Profissional! 👩‍💻
 
-<!--
-**adrianalima99/adrianalima99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
-Here are some ideas to get you started:
+## 📣 Sobre mim 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedora frontend em progresso, apaixonada por aprender e explorar novas tecnologias sempre buscando maneiras de melhorar minhas habilidades em desenvolvimento frontend. </br> 
+Atualmente cursando o 5° semestre do curso de Análise e desenvolvimento de sistemas e concluindo meu período de estágio 👩‍💻
+
+## 💻 Linguagens mais utilizadas
+
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a> 
+
+<div align="center">
+  <a href="https://github.com/adrianalima99">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianalima99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianalima99&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## 💙 Curiosidades 
+- 🎨 Estudo um pouco sobre UX/UI.
+- 📑 Estudando inglês e francês.
+- 📚 Sou apaixonada por livros.
