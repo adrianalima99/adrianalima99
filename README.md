@@ -17,10 +17,9 @@ Atualmente cursando o 5° semestre do curso de Análise e desenvolvimento de sis
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a> 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/adrianalima99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianalima99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianalima99&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 💙 Curiosidades 
