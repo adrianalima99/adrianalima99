@@ -23,6 +23,6 @@ Atualmente cursando o 5° semestre do curso de Análise e desenvolvimento de sis
 </div>
 
 ## 💙 Curiosidades 
-- 🎨 Estudo um pouco sobre UX/UI.
+- 🎨 Estudando UX/UI.
 - 📑 Estudando inglês e francês.
 - 📚 Sou apaixonada por livros.
