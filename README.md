@@ -26,5 +26,5 @@ Atualmente cursando o 5° semestre do curso de Análise e desenvolvimento de sis
 
 ## 💙 Curiosidades 
 - 🎨 Estudando UX/UI.
-- 💻 Estudando  <a href="" target="_blank"> <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"></a> 
+- 💻 Estudando Next.js.
 - 📑 Estudando inglês e francês. 
