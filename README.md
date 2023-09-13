@@ -8,13 +8,16 @@
 Desenvolvedora frontend em progresso, apaixonada por aprender e explorar novas tecnologias sempre buscando maneiras de melhorar minhas habilidades em desenvolvimento frontend. </br> 
 Atualmente cursando o 5° semestre do curso de Análise e desenvolvimento de sistemas e concluindo meu período de estágio 👩‍💻
 
-## 💻 Linguagens mais utilizadas
+## 💻 Skills
 
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" target="_blank"></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a> 
 
 
