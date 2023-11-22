@@ -5,8 +5,15 @@
 
 ## 📣 Sobre mim 
 
-Desenvolvedora frontend em progresso, apaixonada por aprender e explorar novas tecnologias sempre buscando maneiras de melhorar minhas habilidades em desenvolvimento frontend. </br> 
-Atualmente cursando o 5° semestre do curso de Análise e desenvolvimento de sistemas e concluindo meu período de estágio 👩‍💻
+Sou uma Desenvolvedora Frontend apaixonada por buscar a excelência através do constante  aprimoramento do conhecimento em novas tecnologias, sempre em busca de desafios que me permitam expandir minhas habilidades no desenvolvimento Frontend.
+
+Com experiência em React.js/Next.js,typescript/javascript,styled-components, material design e outros, estou imersa na construção de aplicações web, buscando soluções inovadoras e eficientes.
+
+Recentemente, avancei para a posição de Frontend Junior, onde tenho aplicado minha expertise adquirida ao longo dos meus estudos e práticas. 
+Completei com sucesso meu curso de Análise e Desenvolvimento de Sistemas, solidificando uma base sólida e abrangente para enfrentar desafios técnicos.
+
+Além disso, tenho uma abordagem proativa para aprender e colaborar, estou entusiasmada para continuar absorvendo conhecimento e contribuir para projetos inovadores. Estou comprometida em trazer soluções de qualidade para desafios do mundo real no âmbito do desenvolvimento Frontend. 👩‍💻
+ 👩‍💻
 
 ## 💻 Skills
 
