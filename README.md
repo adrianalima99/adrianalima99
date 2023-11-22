@@ -13,7 +13,6 @@ Recentemente, avancei para a posição de Frontend Junior, onde tenho aplicado m
 Completei com sucesso meu curso de Análise e Desenvolvimento de Sistemas, obtendo uma base sólida e abrangente para enfrentar desafios técnicos.
 
 Além disso, tenho uma abordagem proativa para aprender e colaborar, estou entusiasmada para continuar absorvendo conhecimento e contribuir para projetos inovadores. Estou comprometida em trazer soluções de qualidade para desafios do mundo real no âmbito do desenvolvimento Frontend. 👩‍💻
- 👩‍💻
 
 ## 💻 Skills
 
