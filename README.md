@@ -5,14 +5,11 @@
 
 ## 📣 Sobre mim 
 
-Sou uma Desenvolvedora Frontend apaixonada por buscar a excelência através do constante  aprimoramento do conhecimento em novas tecnologias, sempre em busca de desafios que me permitam expandir minhas habilidades no desenvolvimento Frontend.
+Sou uma Desenvolvedora Frontend apaixonada por tecnologia e inovação, sempre em busca de aprimorar minhas habilidades e explorar novos desafios. Com experiência em React.js, Next.js, TypeScript, JavaScript, Styled Components e Material Design, dedico-me à construção de aplicações web intuitivas, eficientes e escaláveis.
 
-Com experiência em React.js/Next.js,typescript/javascript,styled-components, material design e outros, estou imersa na construção de aplicações web, buscando soluções inovadoras e eficientes.
+Atualmente, atuo como Desenvolvedora Frontend Júnior, aplicando na prática o conhecimento adquirido ao longo dos meus estudos e projetos. Sou formada em Análise e Desenvolvimento de Sistemas, o que me proporcionou uma base sólida para enfrentar desafios técnicos com criatividade e precisão.
 
-Recentemente, avancei para a posição de Frontend Junior, onde tenho aplicado minha expertise adquirida ao longo dos meus estudos e práticas. 
-Completei com sucesso meu curso de Análise e Desenvolvimento de Sistemas, obtendo uma base sólida e abrangente para enfrentar desafios técnicos.
-
-Além disso, tenho uma abordagem proativa para aprender e colaborar, estou entusiasmada para continuar absorvendo conhecimento e contribuir para projetos inovadores. Estou comprometida em trazer soluções de qualidade para desafios do mundo real no âmbito do desenvolvimento Frontend. 👩‍💻
+Com uma abordagem proativa e colaborativa, estou sempre aberta a aprender, crescer e contribuir para projetos inovadores que fazem a diferença. 🚀
 
 ## 💻 Skills
 
