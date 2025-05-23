@@ -7,7 +7,7 @@
 
 Profissional em transição de carreira do Frontend para Engenharia de Dados, com sólida formação em Análise e Desenvolvimento de Sistemas, Pós-Graduação em Engenharia de Software e atualmente como aluna ouvinte do Mestrado em Ciência de Dados e Inteligência Artificial.
 
-Minha experiência anterior como Desenvolvedora Frontend Júnior me proporcionou bases sólidas em desenvolvimento web (React.js, Next.js, JavaScript/TypeScript e Material Design), e atualmente aplico esses conhecimentos em meus estudos, agora totalmente voltados para análise de dados.
+Minha experiência anterior como Desenvolvedora Frontend Júnior me proporcionou bases sólidas em desenvolvimento web e atualmente aplico esses conhecimentos em meus estudos, agora totalmente voltados para análise de dados.
 
 Com perfil analítico e apaixonada por resolver problemas complexos, estou focada em adquirir conhecimentos em:
 
