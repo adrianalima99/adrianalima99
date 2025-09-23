@@ -5,22 +5,21 @@
 
 ## 📣 Sobre Mim
 
-Profissional em transição de carreira do Frontend para Engenharia de Dados, com sólida formação em Análise e Desenvolvimento de Sistemas, Pós-Graduação em Engenharia de Software e atualmente como aluna ouvinte do Mestrado em Ciência de Dados e Inteligência Artificial.
+Sou desenvolvedora com experiência em Frontend e atualmente em transição para a área de Engenharia de Dados. Tenho formação em Análise e Desenvolvimento de Sistemas, Pós-graduação em Engenharia de Software e curso atualmente o Mestrado em Engenharia Elétrica (UFPA), com foco em Inteligência Artificial e Ciência de Dados.
 
-Minha experiência anterior como Desenvolvedora Frontend Júnior me proporcionou bases sólidas em desenvolvimento web e atualmente aplico esses conhecimentos em meus estudos, agora totalmente voltados para análise de dados.
+Minha vivência anterior como Desenvolvedora Frontend me deu uma base sólida em desenvolvimento web, boas práticas de versionamento e design de interfaces. Hoje, direciono meus esforços para o mundo dos dados, buscando unir engenharia, arquitetura e ciência de dados para criar soluções escaláveis, inteligentes e orientadas a impacto.
 
-Com perfil analítico e apaixonada por resolver problemas complexos, estou focada em adquirir conhecimentos em:
+Sou apaixonada por resolver problemas complexos e transformar dados em insights, com interesse especial em:
 
-- Engenharia de Dados
-- Big Data
-- Machine Learning
-- Arquitetura de Dados
-- Cloud Computing
+- Engenharia e Arquitetura de Dados
+- Big Data & Processamento em Larga Escala
+- Machine Learning aplicado a sistemas inteligentes
+- Cloud Computing e pipelines de dados
 
 ## 🎓 Formação Acadêmica
-- **Mestrado em Ciência de Dados e IA** (Ouvinte) - Em andamento
-- **Pós-Graduação em Engenharia de Software** - Concluída
-- **Graduação em Análise e Desenvolvimento de Sistemas** - Concluída
+- **Mestrado em Engenharia Elétrica (ênfase em IA e Ciência de Dados)** – UFPA (2025 – em andamento)
+- **Pós-Graduação em Engenharia de Software** – Descomplica (2025)
+- **Graduação em Análise e Desenvolvimento de Sistemas** – Senac (2023)
 
 ## 💻 Habilidades Técnicas
 
