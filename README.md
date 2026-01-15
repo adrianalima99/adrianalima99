@@ -1,4 +1,4 @@
-# 🚀 Hello World! Eu sou Adriana Lima 
+# 👩‍💻 Hello World! Eu sou Adriana Lima 
 # Engenheira de Software em Transição para Engenharia de IA
 
 <a href="https://www.linkedin.com/in/adriana-lima-35b18727b" target="_blank">
@@ -17,7 +17,7 @@ Minha experiência prévia em Frontend me proporcionou uma base sólida em engen
 
 ---
 
-## 🎯 Áreas de Interesse
+## 🧩 Áreas de Interesse
 
 - Engenharia de Inteligência Artificial  
 - Machine Learning e Deep Learning  
@@ -44,14 +44,18 @@ Minha experiência prévia em Frontend me proporcionou uma base sólida em engen
 <a target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Computer_Vision-00599C?style=for-the-badge"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Multimodal_AI-000000?style=for-the-badge"></a>
 
 ---
 
 ### 📊 Engenharia de Dados
 - Modelagem e preparação de dados  
-- Pipelines de dados para ML  
+- Feature engineering para modelos de ML  
+- Pipelines de dados para treinamento e inferência  
 - Integração de APIs e fontes heterogêneas  
-- Processamento orientado a análise e aprendizado  
+- Processamento de dados estruturados e temporais  
+- Processamento orientado à análise e aprendizado  
 
 ---
 
@@ -65,14 +69,21 @@ Minha experiência prévia em Frontend me proporcionou uma base sólida em engen
 
 ### 🌐 Engenharia de Software
 <a target="_blank"><img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge"></a>
+
 
 ---
 
 ### 🎨 Frontend (Experiência Anterior)
-<a target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
-<a target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" target="_blank"></a>
 
 ---
 
@@ -81,4 +92,5 @@ Minha experiência prévia em Frontend me proporcionou uma base sólida em engen
 - Consolidar a transição para **Engenharia de Inteligência Artificial**  
 - Desenvolver projetos aplicados em **Machine Learning e Visão Computacional**  
 - Produzir pesquisa técnica e científica com aplicação prática  
+- Evoluir na construção de sistemas inteligentes orientados a dados  
 
