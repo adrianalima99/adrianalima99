@@ -1,4 +1,4 @@
-# 👩‍💻 Hello World! Eu sou Adriana Lima 
+# 👩🏻‍💻 Hello World! Eu sou Adriana Lima 
 # Engenheira de Software em Transição para Engenharia de IA
 
 <a href="https://www.linkedin.com/in/adriana-lima-35b18727b" target="_blank">
