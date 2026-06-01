@@ -48,7 +48,7 @@ Minha experiência em engenharia de software e arquitetura de aplicações, cód
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge)
 
-### ⬡ Frontend (Base Técnica)
+### ⬡ Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
